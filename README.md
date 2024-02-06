@@ -1,7 +1,7 @@
 
-# Advanced Data Analysis Techniques for Air Pollution - A case study for Italy
+# Advanced Data Analysis Techniques for Air Pollution - A Case Study for Italy
 
-This repository contains code and data related to the analysis of air pollution in Italy using Prophet model as well as Regression Models on four major pollutants (NO2, O3, PM2.5 and PM10).
+This repository contains code and data related to the analysis of air pollution in Italy using the Prophet model as well as Regression Models (Random Forest, Decision Tree, Gradient Boosted Regression and an Ensemble for all Three models) on four major pollutants (NO2, O3, PM2.5 and PM10).
 
 # Contents
 - Jupyter notebooks with analysis code for Regression Models and Prophet Time Series Model

@@ -17,7 +17,11 @@ This repository contains code and data related to the analysis of air pollution 
 
 
 # Contributors
-- Naphee25
+- Abdulkadir Nafisah Abidemi
+- Ilaria D’Elia
+- Ah-Lian Kor
+- Massimo D’Isidoro
+- Marta Chinnici
 
 # Acknowledgement
 

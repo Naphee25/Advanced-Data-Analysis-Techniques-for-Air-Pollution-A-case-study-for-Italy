@@ -4,7 +4,6 @@
 This repository contains code and data related to the analysis of air pollution in Italy using the Prophet model as well as Regression Models (Random Forest, Decision Tree, Gradient Boosted Regression and an Ensemble for all Three models) on four major pollutants (NO2, O3, PM2.5 and PM10).
 
 # Contents
-- Analysis Notebooks:
 1. Regression Models
 - Regression Models - NO2.ipynb: Includes three Regression models and an ensemble model for NO2.
 - Regression Models - O3.ipynb: Contains three Regression models and an ensemble model for O3.
